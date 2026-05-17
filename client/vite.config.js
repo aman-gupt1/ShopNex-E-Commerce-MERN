@@ -6,7 +6,8 @@ export default defineConfig({
   server: {
     proxy: {
       '/api': {
-        target: 'http://localhost:5000',
+        // target: 'http://localhost:5000',  
+         target: 'https://shop-nex-e-commerce-mern.vercel.app',
         changeOrigin: true,
         secure: false,
       },
