@@ -1,0 +1,11 @@
+// server/utils/razorpay.js
+import dotenv from "dotenv";
+import Razorpay from "razorpay";
+
+// load env here also, to be safe
+dotenv.config();
+
+export const instance = new Razorpay({
+  key_id: process.env.RAZORPAY_API_KEY,
+  key_secret: process.env.RAZORPAY_API_SECRET,
+});
