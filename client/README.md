@@ -1,4 +1,4 @@
-🛒 NeuroMart – MERN Based E-Commerce Platform
+🛒 ShopNex – MERN Based E-Commerce Platform
 <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=0ED9F7&center=true&vCenter=true&random=false&width=500&lines=Welcome+to+NeuroMart!;Modern+MERN+E-Commerce+Solution;Secure+%7C+Fast+%7C+Responsive+%F0%9F%9A%80" alt="Typing SVG" /> </p> <p align="center"> <img src="https://img.shields.io/github/stars/ujjvalap/NeuroMart?style=for-the-badge&logo=github" /> <img src="https://img.shields.io/github/forks/ujjvalap/NeuroMart?style=for-the-badge&color=yellow" /> <img src="https://img.shields.io/github/issues/ujjvalap/NeuroMart?style=for-the-badge&color=brightgreen" /> <img src="https://img.shields.io/github/license/ujjvalap/NeuroMart?style=for-the-badge&color=red" /> </p>
 ✨ Features
 
@@ -59,9 +59,6 @@ Submit a PR 🎉
 
 📬 Contact
 
-👨‍💻 Ujjval (Hacker)
-🔗 GitHub
- | LinkedIn
- | Portfolio
+
 
 <p align="center"> <img src="https://github.com/ujjvalap/NeuroMart/assets/0000000/ecommerce.gif" width="400px" alt="Ecommerce GIF"/> </p> <p align="center"> ⭐ Don’t forget to **star** this repo if you like it! ⭐ </p>
