@@ -122,12 +122,15 @@ function Payment() {
 
   const completePayment = async (amount) => {
     try {
-      const { data: keyData } = await axios.get("/api/v1/getKey");
+      const { data: keyData } = await axios.get("/api/v1/getKey",{
+         withCredentials: true,
+      });
       const { key } = keyData;
 
       const { data: orderData } = await axios.post("/api/v1/payment/process", {
         amount,
-      });
+      },
+     { withCredentials: true });
       const { order } = orderData;
 
       const options = {
