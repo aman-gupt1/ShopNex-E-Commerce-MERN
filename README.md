@@ -110,17 +110,16 @@ ShopNex-E-Commerce-MERN/
 ```
 
 ---
-
 # 📸 Screenshots
 
+![Home Page](./client/public/images/home-preview.png)
 
-![Home Page](./assets/home-preview.png)
+![Product Page](./client/public/images/product-preview.png)
 
-![Product Page](./assets/product-preview.png)
+![Cart Page](./client/public/images/cart-preview.png)
 
-![Cart Page](./assets/cart-preview.png)
+![Admin Dashboard](./client/public/images/admin-dashboard.png)
 
-![Admin Dashboard](./assets/admin-dashboard.png)
 
 
 ---
